@@ -1,0 +1,1 @@
+### Utilizar o arquivo `users.csv` dentro da pasta `src/assets` para testar.
